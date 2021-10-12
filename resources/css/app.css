@@ -1,0 +1,14 @@
+ul li{
+  width:200px;
+  border-bottom:1px solid #aaa;
+  margin:3px 0px 3px 0px;
+} 
+
+ul li img{
+  float:left;
+  margin-right:8px;
+}
+
+ul li p{
+  padding:15px 0px 15px 0px;
+}
